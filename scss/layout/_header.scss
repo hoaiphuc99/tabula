@@ -1,0 +1,25 @@
+.btncall {
+    background-color: $color-button-1;
+    border-radius: 30px;
+    padding: 10px;
+    font-size: 14px;
+    color: white;
+}
+
+.btncall:hover {
+    color: $color-button-1;
+    background-color: white;
+    border-color: $color-button-1;
+}
+
+.icon-mxh i {
+    padding: 0 6px;
+}
+
+.navbar-nav li {
+    padding: 10px;
+}
+
+.navbar-nav a {
+    color: black;
+}
